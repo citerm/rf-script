@@ -1,0 +1,14 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	long	byte	string[32]	string[39]	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	LvLim	MapCode	DummyName	
+tibp000	Стандартный Билет На Челнок	731000	1	0	28	0	0	10000	0	0	0	0	0	1	1	0	0	0	1	0	0	-1	35	Platform01	dpfrom_neutralb	
+ticp000	Стандартный Билет На Челнок	831001	1	0	28	0	0	10000	0	0	0	0	0	1	1	0	0	1	1	0	0	-1	35	Platform01	dpfrom_neutralc	
+tiap000	Стандартный Билет На Челнок	431002	1	0	28	0	0	10000	0	0	0	0	0	1	1	0	0	2	1	0	0	-1	35	Platform01	dpfrom_neutrala	
+tipb000	Стандартный Билет На Челнок	731003	1	0	28	0	0	10000	0	0	0	0	0	1	1	0	0	3	1	0	0	-1	35	NeutralB	dpfrom_platformb	
+tipc000	Стандартный Билет На Челнок	831004	1	0	28	0	0	10000	0	0	0	0	0	1	1	0	0	4	1	0	0	-1	35	NeutralC	dpfrom_platformc	
+tipa000	Стандартный Билет На Челнок	431005	1	0	28	0	0	10000	0	0	0	0	0	1	1	0	0	5	1	0	0	-1	35	NeutralA	dpfrom_platforma	
+tibp001	Билет На Челнок	731000	1	11000	28	0	0	200000	0	0	0	0	0	1	1	0	0	6	1	0	0	-1	35	Platform01	dpfrom_neutralb	
+ticp001	Билет На Челнок	831001	1	00110	28	0	0	200000	0	0	0	0	0	1	1	0	0	7	1	0	0	-1	35	Platform01	dpfrom_neutralc	
+tiap001	Билет На Челнок	431002	1	00001	28	0	0	200000	0	0	0	0	0	1	1	0	0	8	1	0	0	-1	35	Platform01	dpfrom_neutrala	
+tipb001	Билет На Челнок	731003	1	11000	28	0	0	200000	0	0	0	0	0	1	1	0	0	9	1	0	0	-1	35	NeutralB	dpfrom_platformb	
+tipc001	Билет На Челнок	831004	1	00110	28	0	0	200000	0	0	0	0	0	1	1	0	0	10	1	0	0	-1	35	NeutralC	dpfrom_platformc	
+tipa001	Билет На Челнок	431005	1	00001	28	0	0	200000	0	0	0	0	0	1	1	0	0	11	1	0	0	-1	35	NeutralA	dpfrom_platforma	

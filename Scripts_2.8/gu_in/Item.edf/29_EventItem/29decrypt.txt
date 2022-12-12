@@ -1,0 +1,6 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	hz	
+evddd01	Разбитое Надгробие	a30200	0	11111	29	0	0	0	0	0	0	0	0	0	0	0	0	1342177279	0	0	0	0	0	
+evddd02	Ключ Тьмы	a30200	0	11111	29	0	0	0	0	0	0	0	0	0	0	0	0	1342177279	0	0	0	0	0	
+evddd03	Кристалл Огня	a30200	0	11111	29	0	0	0	0	0	0	0	0	0	0	0	0	1342177279	0	0	0	0	0	
+evddd04	Треснувший Кристалл	a30200	0	11111	29	0	0	0	0	0	0	0	0	0	0	0	0	1342177279	0	0	0	0	0	

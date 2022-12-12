@@ -1,0 +1,8 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	float	dword	dword	float	dword	dword	byte	byte	byte	byte	xeh	xeh	xeh	byte	byte	byte	byte	dword	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	ActDealy	LvLim	IsAbr	EquipSpeed	SuccProb	Duration	NeedItemNum	Item1ID	Item2ID	Item3ID	Item1Code	Item2Code	Item3Code	Need1Num	Need2Num	Need3Num	none	hz	
+rdaaa01	Обычный Радар(1)	A21401	1	11111	34	0	0	15	0	0	0	0	1000	1	1	1	1	0	1	0	0	-1	300	40	1	1	80	120	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	
+rdaaa02	Скоростной Радар(2)	A21402	2	11111	34	0	0	20	0	0	0	0	1000	1	1	1	1	1	1	0	0	-1	300	40	1	1	80	120	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	
+rdaaa03	Сверхскоростной Радар(3)	A21403	3	11111	34	0	0	25	0	0	0	0	1000	1	1	1	1	2	1	0	0	-1	300	40	1	1	80	120	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	
+rdpvp01	Обычный Радар(1)	A21401	1	11111	34	2	0	15	30	0	0	0	1000	1	1	1	1	0	1	0	0	-1	300	40	1	1	80	120	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	
+rdpvp02	Скоростной Радар(2)	A21402	2	11111	34	2	0	20	40	0	0	0	1000	1	1	1	1	1	1	0	0	-1	300	40	1	1	80	120	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	
+rdpvp03	Сверхскоростной Радар(3)	A21403	3	11111	34	2	0	25	50	0	0	0	1000	1	1	1	1	2	1	0	0	-1	300	40	1	1	80	120	0	-1	-1	-1	-1	-1	-1	-1	-1	-1	0	0	

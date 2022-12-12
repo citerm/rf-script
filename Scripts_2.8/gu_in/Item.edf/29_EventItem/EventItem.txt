@@ -1,0 +1,6 @@
+string[64]	dword	string[64]	string[64]	END
+Code	Icon	Name	ToolTip	
+evddd01	0	Разбитое Надгробие	ret001	
+evddd02	0	Ключ Тьмы	ret002	
+evddd03	0	Кристалл Огня	ret003	
+evddd04	0	Треснувший Кристалл	ret004	

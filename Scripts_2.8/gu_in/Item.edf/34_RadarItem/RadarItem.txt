@@ -1,0 +1,8 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	float	string[8]	dword	string[8]	dword	string[8]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	float	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	ActDealy	NeedItem1	Count1	NeedItem2	Count2	NeedItem3	Count3	LvLim	UpLvLim	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsAbr	EquipSpeed	EffSort	SuccProb	Duration	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	IsUpgrade	ToolTip	IsTime	
+rdaaa01	1	A21401	1	Обычный Радар(1)	308	300	11111	300	-1	-1	-1	-1	-1	-1	40	-1	0	15	0	0	0	0	1000	1	1	1001	80	120	1	1	1	1	1	0	trdaaa01	0	
+rdaaa02	1	A21402	2	Скоростной Радар(2)	308	300	11111	300	-1	-1	-1	-1	-1	-1	40	-1	0	20	0	0	0	0	1000	1	1	1100	80	120	1	1	1	1	1	0	trdaaa02	0	
+rdaaa03	1	A21403	3	Сверхскоростной Радар(3)	308	300	11111	300	-1	-1	-1	-1	-1	-1	40	-1	0	25	0	0	0	0	1000	1	1	1110	80	120	1	1	1	1	1	0	trdaaa03	0	
+rdpvp01	1	A21401	1	Обычный Радар(1)	308	300	11111	300	-1	-1	-1	-1	-1	-1	40	-1	2	15	30	0	0	0	1000	1	1	1001	80	120	1	1	1	1	1	0	trdaaa01	0	
+rdpvp02	1	A21402	2	Скоростной Радар(2)	308	300	11111	300	-1	-1	-1	-1	-1	-1	40	-1	2	20	40	0	0	0	1000	1	1	1100	80	120	1	1	1	1	1	0	trdaaa02	0	
+rdpvp03	1	A21403	3	Сверхскоростной Радар(3)	308	300	11111	300	-1	-1	-1	-1	-1	-1	40	-1	2	25	50	0	0	0	1000	1	1	1110	80	120	1	1	1	1	1	0	trdaaa03	0	

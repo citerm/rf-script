@@ -1,0 +1,10 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	float	dword	dword	dword	dword	dword	dword	dword	dword	dword	float	dword	dword	dword	dword	dword	dword	dword	string[64]	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	ActDelay	LvLim	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsAbr	EquipSpeed	Duration	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	IsUpgrade	ToolTip	
+fiaaa01	1	A20900	109	Фейерверк тип A	209	250	11111	0	1	0	0	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfiaaa01	
+fiaaa02	1	A20A00	110	Фейерверк тип B	522	250	11111	0	1	0	0	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfiaaa02	
+fiaaa03	1	A20B00	111	Фейерверк тип C	523	250	11111	0	1	0	0	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfiaaa03	
+fiaaa04	1	A20D00	116	Фейерверк тип D	525	250	11111	0	1	0	0	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfiaaa04	
+fibbb01	1	A20900	109	Фейерверк тип A	209	250	11111	0	1	0	100	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfibbb01	
+fibbb02	1	A20A00	110	Фейерверк тип B	522	250	11111	0	1	0	100	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfibbb02	
+fibbb03	1	A20B00	111	Фейерверк тип C	523	250	11111	0	1	0	100	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfibbb03	
+fibbb04	1	A20D00	116	Фейерверк тип D	525	250	11111	0	1	0	200	0	0	0	0	1	1	1	0	1	1	1	1	1	1	tfibbb04	
