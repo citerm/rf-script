@@ -1,0 +1,10 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	LvLim	UpLvLim	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsAbr	DurUnit	ToolClass	IsRepair	EffState	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	IsUpgarde	ToolTip	IsTime	
+immmm01	1	A30400	1	Устройство Производства Оружия/Щитов	304	300	11111	1	-1	0	20000	0	0	0	0	1000	0	1000	0	0	0	1	1	1	1	1	0	timmmm01	0	
+immmm02	1	A30401	2	Устройство Производства Обмундирования	304	300	11111	1	-1	0	20000	0	0	0	0	1000	0	1000	1	0	0	1	1	1	1	1	0	timmmm02	0	
+immmm03	1	A30402	3	Устройство Производства Боеприпасов	304	300	11111	1	-1	0	10000	0	0	0	0	500	0	1000	2	0	0	1	1	1	1	1	0	timmmm03	0	
+immmm04	1	A30403	4	Модификатор	304	300	11111	1	-1	0	15000	0	0	0	0	750	0	1000	3	0	0	1	1	1	1	1	0	timmmm04	0	
+imleo01	1	A30403	5	Инструкция Леона	304	300	11111	1	-1	0	1000	0	0	0	0	50	0	1000	4	0	0	1	1	1	1	1	0	timleo01	0	
+imbal01	1	731500	6	WorldCupEvent SoccerBall	315	300	11000	1	-1	0	50000	0	0	0	0	2500	0	1000	5	0	0	1	1	1	1	1	0	timbal01	0	
+imbal02	1	831500	6	WorldCupEvent SoccerBall	315	300	00110	1	-1	0	50000	0	0	0	0	2500	1	1000	5	0	0	1	1	1	1	1	0	timbal02	0	
+imbal03	1	431500	6	WorldCupEvent SoccerBall	315	300	00001	1	-1	0	50000	0	0	0	0	2500	1	1000	5	0	0	1	1	1	1	1	0	timbal03	0	

@@ -1,0 +1,20 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	long	string[36]	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	MapCode	
+izbbb00	База Подготовки Федерации(Map)	A30B00	1	11111	21	0	0	10	0	0	0	0	1	0	1	0	0	0	1	0	0	0	NeutralB	
+izccc00	База Подготовки Священного Альянса(Map)	A30B01	1	11111	21	0	0	10	0	0	0	0	1	0	1	0	0	1	1	0	0	0	NeutralC	
+izaaa00	База Подготовки Империи(Map)	A30B02	1	11111	21	0	0	10	0	0	0	0	1	0	1	0	0	2	1	0	0	0	NeutralA	
+izbbb01	Генштаб Федерации(Map)	A30B00	1	11111	21	0	0	1000	0	0	0	0	50	1	1	1	1	3	1	0	0	0	NeutralB	
+izccc01	Генштаб Священного Альянса(Map)	A30B01	1	11111	21	0	0	1000	0	0	0	0	50	1	1	1	1	4	1	0	0	0	NeutralC	
+izaaa01	Генштаб Империи(Map)	A30B02	1	11111	21	0	0	1000	0	0	0	0	50	1	1	1	1	5	1	0	0	0	NeutralA	
+izbnn01	Укрепление Солус(Map)	A30B03	1	11111	21	0	0	10000	0	0	0	0	500	1	1	1	1	6	1	0	0	0	NeutralBS1	
+izbnn02	Укрепления Анакаде(Map)	A30B04	1	11111	21	0	0	10000	0	0	0	0	500	1	1	1	1	7	1	0	0	0	NeutralBS2	
+izcnn01	Колония Харам(Map)	A30B05	1	11111	21	0	0	10000	0	0	0	0	500	1	1	1	1	8	1	0	0	0	NeutralCS1	
+izcnn02	Колония Нумерус(Map)	A30B07	1	11111	21	0	0	10000	0	0	0	0	500	1	1	1	1	9	1	0	0	0	NeutralCS2	
+izann01	Застава-213	A30B08	1	11111	21	0	0	10000	0	0	0	0	500	1	1	1	1	10	1	0	0	0	NeutralAS1	
+izann02	Застава-117	A30B09	1	11111	21	0	0	10000	0	0	0	0	500	1	1	1	1	11	1	0	0	0	NeutralAS2	
+izree01	Краговы Шахты(Map)	A30B0A	1	11111	21	0	0	1000	0	0	0	0	50	1	1	1	1	12	1	0	0	0	resources	
+izpll01	Космопорт(Map)	A30B0B	1	11111	21	0	0	100000	0	0	0	0	5000	1	1	1	1	13	1	0	0	0	Platform01	
+izset01	Сеттова Пустыня	A30B0B	1	11111	21	0	0	100000	0	0	0	0	5000	1	1	1	1	14	1	0	0	0	Sette	
+izcol01	Отроги Вулкана Котел(Map)	A30B0B	1	11111	21	0	0	100000	0	0	0	0	5000	1	1	1	1	15	1	0	0	0	Cauldron01	
+izelf00	Карта Древнего Королевства Идисиль(Map)	A30B0B	1	11111	21	0	0	0	0	0	0	0	0	1	1	1	1	-1	1	0	0	0	Cauldron01	
+izelf01	Эльфийская земля	A30B0B	1	11111	21	0	0	0	0	0	0	0	0	1	1	1	1	-1	1	0	0	0	Cauldron01	

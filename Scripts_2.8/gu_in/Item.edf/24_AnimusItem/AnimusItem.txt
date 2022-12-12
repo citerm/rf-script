@@ -1,0 +1,10 @@
+string[64]	string[64]	dword	string[64]	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	END
+Code	Model	Icon	Civil	Name	AnimusClass	AnimusType	KindClt	FixPart	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	
+ijccc01	840600	1	00110	Пеймон	1	0	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc01	
+ijccc02	840601	2	00110	Геката	2	0	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc02	
+ijccc03	840602	3	00110	Инанна	3	0	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc03	
+ijccc04	840603	4	00110	Изида	4	0	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc04	
+ijccc05	840604	5	00110	Тех-Пеймон	1	1	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc05	
+ijccc06	840605	6	00110	Тех-Геката	2	1	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc06	
+ijccc07	840606	7	00110	Тех-Иннана	3	1	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc07	
+ijccc08	840607	8	00110	Тех-Изида	4	1	406	300	0	250000	0	0	0	0	12500	1	1	1	1	1	tijccc08	

@@ -1,0 +1,24 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	END
+Code	IsExist	Model	Icon	Name	OreList	OreLevel	OreProb	KindClt	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	ProcessPoint	StorePrice	IsSell	IsExchange	IsGround	IsStore	IsNorAcc	MinCRandom	MaxCRandom	ProcessPrice	ToolTip	IsTime	
+ioblu03	1	A30000	1	Синяя Руда+3	0	2	0	300	0	1200	0	0	0	0	3	120	1	1	0	0	1	1	4	2680	tioblu03	0	
+ioblu02	1	A30001	2	Синяя Руда+2	0	1	0	300	0	960	0	0	0	0	2	96	1	1	0	0	1	1	3	2140	tioblu02	0	
+ioblu01	1	A30002	3	Синяя Руда+1	0	0	0	300	0	720	0	0	0	0	1	72	1	1	0	0	1	1	2	1610	tioblu01	0	
+iored03	1	A30003	4	Красная Руда+3	1	2	0	300	0	1200	0	0	0	0	3	120	1	1	0	0	1	1	4	2680	tiored03	0	
+iored02	1	A30004	5	Красная Руда+2	1	1	0	300	0	960	0	0	0	0	2	96	1	1	0	0	1	1	3	2140	tiored02	0	
+iored01	1	A30005	6	Красная Руда+1	1	0	0	300	0	720	0	0	0	0	1	72	1	1	0	0	1	1	2	1610	tiored01	0	
+ioyel03	1	A30006	7	Желтая Руда+3	2	2	0	300	0	1200	0	0	0	0	3	120	1	1	0	0	1	1	4	2680	tioyel03	0	
+ioyel02	1	A30007	8	Желтая руда+2	2	1	0	300	0	960	0	0	0	0	2	96	1	1	0	0	1	1	3	2140	tioyel02	0	
+ioyel01	1	A30008	9	Желтая Руда+1	2	0	0	300	0	720	0	0	0	0	1	72	1	1	0	0	1	1	2	1610	tioyel01	0	
+iogre03	1	A30009	10	Зеленая Руда+3	3	2	0	300	0	1200	0	0	0	0	3	120	1	1	0	0	1	1	4	2680	tiogre03	0	
+iogre02	1	A3000A	11	Зеленая Руда+2	3	1	0	300	0	960	0	0	0	0	2	96	1	1	0	0	1	1	3	2140	tiogre02	0	
+iogre01	1	A3000B	12	Зеленая Руда+1	3	0	0	300	0	720	0	0	0	0	1	72	1	1	0	0	1	1	2	1610	tiogre01	0	
+iobla03	1	A3000C	13	Черная Руда+3	4	2	0	300	0	1200	0	0	0	0	3	120	1	1	0	0	1	1	4	2680	tiobla03	0	
+iobla02	1	A3000D	14	Черная Руда+2	4	1	0	300	0	960	0	0	0	0	2	96	1	1	0	0	1	1	3	2140	tiobla02	0	
+iobla01	1	A3000E	15	Черная Руда+1	4	0	0	300	0	720	0	0	0	0	1	72	1	1	0	0	1	1	2	1610	tiobla01	0	
+ioblu04	1	A3000F	16	Синяя Руда+4	0	2	0	300	0	1	0	0	0	0	0	0	1	1	0	0	1	1	3	6850	tioblu04	0	
+iored04	1	A30010	17	Красная Руда+4	1	2	0	300	0	1	0	0	0	0	0	0	1	1	0	0	1	1	3	6850	tiored04	0	
+ioyel04	1	A30011	18	Желтая Руда+4	2	2	0	300	0	1	0	0	0	0	0	0	1	1	0	0	1	1	3	6850	tioyel04	0	
+iogre04	1	A30012	19	Зеленая Руда+4	3	2	0	300	0	1	0	0	0	0	0	0	1	1	0	0	1	1	3	6850	tiogre04	0	
+iobla04	1	A30013	20	Черная Руда+4	4	2	0	300	0	1	0	0	0	0	0	0	1	1	0	0	1	1	3	6850	tiobla04	0	
+iogld01	1	A30012	21	Коробочка с  Купоном	5	3	5970	300	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	6850	tiogld01	0	
+iogld02	1	A30012	22	Сверкающая Золотая Коробочка	5	3	5700	300	0	1	0	0	0	0	0	0	1	1	0	0	1	0	0	6850	tiogld02	0	

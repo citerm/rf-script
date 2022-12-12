@@ -1,0 +1,6 @@
+string[64]	dword	dword	float	float	float	float	float	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	string[64]	string[64]	string[64]	string[64]	string[64]	string[64]	string[64]	END
+Code	FRAType	Unit_HP	DefGap	DefFacing	MoveRateSpeed	Height	Width	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	RepPrice	IsDestroy	IsRepair	Head	Upper	Lower	Arms	Shoulder	Back	BullaetArms	BulletShould	
+BGO	0	300000	0,5	0,17182	2,5	25	15	0	1000000	0	0	0	0	0	1	0	1	unhe001	unup001	unlo001	unar001	unsg000	unbg000	unbu001	unbg000	
+BCA	1	160000	0,574999988	0,196191996	2,5	25	15	0	1000000	0	0	0	0	0	1	0	1	unhe021	unup021	unlo021	unar021	unsc000	unbc000	unbu021	unbc000	
+BEN	2	110000	0,5	0,5	2,5	25	15	0	1000000	0	0	0	0	0	1	0	1	unhe041	unup041	unlo041	unar041	unse000	unbe000	unbu041	unbe000	
+BNO	3	110000	0,5	0,5	2,5	25	15	0	1000000	0	0	0	0	0	1	0	1	unhe061	unup061	unlo061	unar061	unsn000	unbn000	unbu061	unbn000	

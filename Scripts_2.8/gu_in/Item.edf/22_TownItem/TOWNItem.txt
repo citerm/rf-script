@@ -1,0 +1,80 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	string[64]	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	dword	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	MapCode	DummyName	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	Lv	UpLvLim	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	IsCash	UsePCCash	IsTime	
+iqbbb00	1	730C00	1	База Подготовки Федерации	780	300	11000	NeutralB	dpfrom_resources	0	10	0	0	0	0	1	0	-1	1	0	0	0	1	tiqbbb00	0	0	0	
+iqccc00	1	830C01	2	База Подготовки Альянса	780	300	00110	NeutralC	dpfrom_resources	0	10	0	0	0	0	1	0	-1	1	0	0	0	1	tiqccc00	0	0	0	
+iqaaa00	1	430C02	3	База Подготовки Империи	780	300	00001	NeutralA	dpfrom_resources	0	10	0	0	0	0	1	0	-1	1	0	0	0	1	tiqaaa00	0	0	0	
+iqbbb01	1	730C00	1	Генштаб Федерации	780	300	11000	NeutralB	dpfrom_resources	0	1000	0	0	0	0	50	0	-1	1	0	1	1	1	tiqbbb01	0	0	0	
+iqccc01	1	830C01	2	Генштаб Альянса	780	300	00110	NeutralC	dpfrom_resources	0	1000	0	0	0	0	50	0	-1	1	0	1	1	1	tiqccc01	0	0	0	
+iqaaa01	1	430C02	3	Генштаб Империи	780	300	00001	NeutralA	dpfrom_resources	0	1000	0	0	0	0	50	0	-1	1	0	1	1	1	tiqaaa01	0	0	0	
+iqbbb02	1	730C03	1	Аванпост Федерации	780	300	11000	NeutralB	dpfrom_bellato_HQ	0	1000	0	0	0	0	50	0	-1	1	0	1	1	1	tiqbbb02	0	0	0	
+iqccc02	1	830C04	2	Аванпост Альянса	780	300	00110	NeutralC	dpfrom_cora_HQ	0	1000	0	0	0	0	50	0	-1	1	0	1	1	1	tiqccc02	0	0	0	
+iqaaa02	1	430C05	3	Аванпост Империи	780	300	00001	NeutralA	dpfrom_accretia_HQ	0	1000	0	0	0	0	50	0	-1	1	0	1	1	1	tiqaaa02	0	0	0	
+iqbnn01	1	730C06	1	Укрепление Солус	780	300	11000	NeutralBS1	dpfrom_town	0	3000	0	0	0	0	150	0	-1	1	0	1	1	1	tiqbnn01	0	0	0	
+iqbnn02	1	730C07	1	Укрепление Анакаде	780	300	11000	NeutralBS2	dpfrom_town	0	3000	0	0	0	0	150	0	-1	1	0	1	1	1	tiqbnn02	0	0	0	
+iqcnn01	1	830C08	2	Колония Харам	780	300	00110	NeutralCS1	dpfrom_town	0	3000	0	0	0	0	150	0	-1	1	0	1	1	1	tiqcnn01	0	0	0	
+iqcnn02	1	830C09	2	Колония Нумерус	780	300	00110	NeutralCS2	dpfrom_town	0	3000	0	0	0	0	150	0	-1	1	0	1	1	1	tiqcnn02	0	0	0	
+iqann01	1	430C0A	3	Застава-213	780	300	00001	NeutralAS1	dpfrom_town	0	3000	0	0	0	0	150	0	-1	1	0	1	1	1	tiqann01	0	0	0	
+iqann02	1	430C0B	3	Застава-117	780	300	00001	NeutralAS2	dpfrom_town	0	3000	0	0	0	0	150	0	-1	1	0	1	1	1	tiqann02	0	0	0	
+iqres01	1	A30C0C	3	Краговы Шахты	780	300	11111	resources	dpfrom_town	0	0	0	0	0	0	0	0	-1	0	0	0	0	1	tiqres01	0	0	0	
+iqell01	1	A30C0D	3	Плато Элан	780	300	11111	Elan	dp_elan_start	0	1000	0	0	0	0	50	45	-1	1	1	1	1	1	tiqell01	0	0	0	
+iqtwe01	1	A30C0E	4	MagpieScroll	780	300	11111	resources	dpfrom_town	0	20000	0	0	0	0	1000	0	-1	1	1	1	1	1	tiqtwe01	0	0	0	
+iqcsa01	1	730C00	5	Этерская территория Федерации	780	300	11000	Platform01	dsstart0	0	1	0	0	0	0	0	35	-1	1	0	0	1	1	tiqcsa01	1	0	0	
+iqcsa02	1	830C01	6	Этерская территория Священного Альянса	780	300	00110	Platform01	dsstart1	0	1	0	0	0	0	0	35	-1	1	0	0	1	1	tiqcsa02	1	0	0	
+iqcsa03	1	430C02	7	Этерская территория Империи	780	300	00001	Platform01	dsstart2	0	1	0	0	0	0	0	35	-1	1	0	0	1	1	tiqcsa03	1	0	0	
+iqcsa04	1	430C02	8	Телепорт Предводителя Шипоголовов	780	300	00001	NeutralA	dmm66_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa04	1	0	0	
+iqcsa05	1	730C00	9	Телепорт Царя Саблезубов	780	300	11000	NeutralB	dmm49_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa05	1	0	0	
+iqcsa06	1	830C01	10	Телепорт Царя Саблезубов	780	300	00110	NeutralC	dmm45_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa06	1	0	0	
+iqcsa07	1	430C02	11	Телепорт Бешеного Молотоглава	780	300	00001	NeutralA	dmm82_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa07	1	0	0	
+iqcsa08	1	730C00	12	Телепорт Бешеного Молотоглава	780	300	11000	NeutralB	dmm19_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa08	1	0	0	
+iqcsa09	1	830C01	13	Телепорт Бешеного Молотоглава	780	300	00110	NeutralC	dmm61_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa09	1	0	0	
+iqcsa10	1	430C02	14	Телепорт Молодого Раптора Доминанта	780	300	00001	NeutralA	dmm52_1	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa10	1	0	0	
+iqcsa11	1	730C00	15	Телепорт Свирепого Ратозверя	780	300	11000	NeutralB	dmm48_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa11	1	0	0	
+iqcsa12	1	830C01	16	Телепорт Свирепого Ратозверя	780	300	00110	NeutralC	dmm33_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa12	1	0	0	
+iqcsa13	1	430C02	17	Телепорт Стального Аргола	780	300	00001	NeutralA	dmm78_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa13	1	0	0	
+iqcsa14	1	730C00	18	Телепорт Стального Аргола	780	300	11000	NeutralB	dmm40_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa14	1	0	0	
+iqcsa15	1	830C01	19	Телепорт Змееголова Военачальника	780	300	00110	NeutralC	dmm23_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa15	1	0	0	
+iqcsa16	1	430C02	20	Телепорт Царя Скорпионов	780	300	00001	NeutralAS1	dmm08_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa16	1	0	0	
+iqcsa17	1	730C00	21	Телепорт Царя Скорпионов	780	300	11000	NeutralBS1	dmm0913_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa17	1	0	0	
+iqcsa18	1	730C00	22	Телепорт Короля Трицератопсов	780	300	11000	NeutralBS2	dmm0917_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa18	1	0	0	
+iqcsa19	1	830C01	23	Телепорт Короля Трицератопсов	780	300	00110	NeutralCS1	dmm0810_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa19	1	0	0	
+iqcsa20	1	430C02	24	Телепорт Реликтового Ящера	780	300	00001	NeutralAS2	dmm0816_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa20	1	0	0	
+iqcsa21	1	430C02	25	Телепорт Панцирного Аргола	780	300	00001	NeutralAS1	dmm30_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa21	1	0	0	
+iqcsa22	1	730C00	26	Телепорт Панцирного Аргола	780	300	11000	NeutralBS1	dmm0924_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa22	1	0	0	
+iqcsa23	1	830C01	27	Телепорт Огненного Лобстера	780	300	00110	NeutralCS2	dmm0813_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa23	1	0	0	
+iqcsa24	1	830C01	28	Телепорт Дроида Исследователя	780	300	00110	NeutralCS2	dmm0913_5	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa24	1	0	0	
+iqcsa25	1	730C00	29	Телепорт Императорского Лобстера	780	300	11000	NeutralBS2	dmm1030_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa25	1	0	0	
+iqcsa26	1	830C01	30	Телепорт Императорского Лобстера	780	300	00110	NeutralCS1	dmm097_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa26	1	0	0	
+iqcsa27	1	430C02	31	Телепорт Царя Медведок	780	300	00001	NeutralAS2	dmm105_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa27	1	0	0	
+iqcsa28	1	830C01	32	Телепорт Безумного Змееголова	780	300	00110	NeutralCS1	dmm104_1	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa28	1	0	0	
+iqcsa29	1	430C02	33	Телепорт Королевы Медведок	780	300	00001	NeutralAS2	dmm0927_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa29	1	0	0	
+iqcsa30	1	730C00	34	Телепорт Яростного Скарабея	780	300	11000	NeutralBS1	dmm1019_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa30	1	0	0	
+iqcsa31	1	730C00	35	Телепорт Большого Мясного Слизня	780	300	11000	NeutralBS2	dmm099_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa31	1	0	0	
+iqcsa32	1	830C01	36	Телепорт Гигантского Гиперморфа	780	300	00110	NeutralCS2	dmm1020_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa32	1	0	0	
+iqcsa33	1	430C02	37	Телепорт Царя Богомолов	780	300	00001	NeutralAS2	dmm1015_2	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa33	1	0	0	
+iqcsa34	1	730C00	38	Телепорт Царя Богомолов	780	300	11000	NeutralBS2	dmm1014_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa34	1	0	0	
+iqcsa35	1	830C01	39	Телепорт Царя Богомолов	780	300	00110	NeutralCS1	dmm0928_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa35	1	0	0	
+iqcsa36	1	830C01	40	Телепорт Кровавого Змееголова	780	300	00110	NeutralCS2	dmm1030_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa36	1	0	0	
+iqcsa37	1	730C00	41	Телепорт Хранителя Кровавого Культа	780	300	11000	NeutralBS1	dmm1017_4	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa37	1	0	0	
+iqcsa38	1	A30C0E	43	Телепорт Яростного Шипоголова	780	300	00001	NeutralAS1	dmm48_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa38	1	0	0	
+iqcsa39	1	430C02	44	Телепорт Варассы	780	300	00001	NeutralAS1	dmm57_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa39	1	0	0	
+iqcsa40	1	730C00	45	Телепорт Варассы	780	300	11000	NeutralBS1	dmm102_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa40	1	0	0	
+iqcsa41	1	830C01	46	Телепорт Варассы	780	300	00110	NeutralCS1	dmm0937_0	0	1	0	0	0	0	0	0	-1	1	1	1	1	1	tiqcsa41	1	0	0	
+iqcsa42	1	A30C0E	47	Телепорт Бельфегора	780	300	11111	Cauldron01	dmm46_0	0	1	0	0	0	0	0	40	-1	1	1	1	1	1	tiqcsa42	1	0	0	
+iqcsa43	1	A30C0E	48	Телепорт Каменолицего	780	300	11111	Elan	dmm01_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa43	1	0	0	
+iqcsa44	1	A30C0E	49	Телепорт Стража Акулоящера	780	300	11111	Elan	dmm02_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa44	1	0	0	
+iqcsa45	1	A30C0E	50	Телепорт Ослепителя	780	300	11111	Elan	dmm19_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa45	1	0	0	
+iqcsa46	1	A30C0E	51	Телепорт Дагона	780	300	11111	Elan	dmm04_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa46	1	0	0	
+iqcsa47	1	A30C0E	52	Телепорт Королевы Синдера	780	300	11111	Elan	dmm05_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa47	1	0	0	
+iqcsa48	1	A30C0E	53	Телепорт Королевы Калиан	780	300	11111	Elan	dmm22_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa48	1	0	0	
+iqcsa49	1	A30C0E	54	Телепорт Дагана	780	300	11111	Elan	dmm62_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa49	1	0	0	
+iqcsa50	1	A30C0E	55	Телепорт Дагну	780	300	11111	Elan	dmm63_0	0	1	0	0	0	0	0	45	-1	1	1	1	1	1	tiqcsa50	1	0	0	
+iqcsa51	1	A30C0E	56	Телепорт Калиан	780	300	11111	Platform01	dmm131_3	0	1	0	0	0	0	0	35	-1	1	1	1	1	1	tiqcsa51	1	0	0	
+iqcsa52	1	A30C0E	42	Телепорт Калиан	780	300	11111	Platform01	dmm131_0	0	1	0	0	0	0	0	35	-1	1	1	1	1	1	tiqcsa52	1	0	0	
+iqcsa53	1	A30C0E	3	Телепорт в Горы Чудовищ	780	300	11111	Mountain_Beast	dpfrom_cauld	0	40000	0	0	0	0	2000	49	-1	1	1	1	1	1	tiqcsa53	0	0	0	
+iqcsa54	1	A30C0E	3	Телепорт на Землю Бродяг	780	300	11111	Exile_Land	dpfrom_mountain_beast	0	65000	0	0	0	0	3250	51	-1	1	1	1	1	1	tiqcsa54	0	0	0	
+iqcsa55	1	A30C0E	57	Телепорт Первозданного Псевдодракона	780	300	11111	Mountain_Beast	dmm49_0	0	1	0	0	0	0	0	49	-1	1	1	1	1	1	tiqcsa55	1	0	0	
+iqcsa56	1	A30C0E	58	Телепорт Культиста Кровавого Топора	780	300	11111	Exile_Land	dmm52_0	0	1	0	0	0	0	0	51	-1	1	1	1	1	1	tiqcsa56	1	0	0	
+iqcsa57	1	A30C0E	3	Телепорт в Горы Чудовищ(P)	780	300	11000	Medicallab	dpfrom_platform01	0	360000	1000	0	0	0	0	50	-1	1	1	1	1	1	tiqcsa57	0	0	0	
+iqbpc01	1	730C00	59	Премиум Телепорт	780	300	11000	NeutralB	dpfrom_resources	0	0	0	0	0	0	0	1	-1	0	0	0	0	1	tiqbpc01	0	0	0	
+iqcpc01	1	830C01	59	Премиум Телепорт	780	300	00110	NeutralC	dpfrom_resources	0	0	0	0	0	0	0	1	-1	0	0	0	0	1	tiqcpc01	0	0	0	
+iqapc01	1	430C02	59	Премиум Телепорт	780	300	00001	NeutralA	dpfrom_resources	0	0	0	0	0	0	0	1	-1	0	0	0	0	1	tiqapc01	0	0	0	

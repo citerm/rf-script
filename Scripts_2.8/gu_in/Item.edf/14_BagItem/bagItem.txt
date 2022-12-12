@@ -1,0 +1,8 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	IsTime	
+iebbs00	1	730500	1	Вещмешок Новичка(Bellato)	305	300	11000	0	20	0	0	0	0	1	1	0	0	0	1	tiebbs00	0	
+ieccs00	1	830501	2	Торба Новичка(Cora)	305	300	00110	0	20	0	0	0	0	1	1	0	0	0	1	tieccs00	0	
+ieaas00	1	430502	3	Модуль Хранения Новичка(Accretia)	305	300	00001	0	20	0	0	0	0	1	1	0	0	0	1	tieaas00	0	
+iebbb00	1	730500	1	Вещмешок	305	300	11000	0	20000	0	0	0	0	1	1	1	1	0	1	tiebbb00	0	
+ieccc00	1	830501	2	Торба(Cora)	305	300	00110	0	20000	0	0	0	0	1	1	1	1	0	1	tieccc00	0	
+ieaaa00	1	430502	3	Модуль Хранения	305	300	00001	0	20000	0	0	0	0	1	1	1	1	0	1	tieaaa00	0	

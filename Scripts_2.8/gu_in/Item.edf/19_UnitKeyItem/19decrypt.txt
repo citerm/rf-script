@@ -1,0 +1,6 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	long	dword	float	float	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	FRAType	MoveRateSpeed	MoveRateSpeed	Height	Width	none	Unit_HP	RepPrice	Head	Upper	Lower	Arms	Shoulders	Back	BulletArms	BulletSho	IsDestroy	IsRepair	hz
+inbbb01	Голиаф	730700	1	11000	19	0	0	1000000	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	2,5	2,5	25	15	0	300000	1	0	0	0	0	0	0	1	0	0	1	0
+inbbb02	Баллиста	730701	2	11000	19	0	0	1000000	0	0	0	0	0	0	1	0	0	1	0	0	0	0	1	2,5	2,5	25	15	0	160000	1	20	20	20	20	21	21	22	21	0	1	0
+inbbb03	Зодчий	730702	3	11000	19	0	0	1000000	0	0	0	0	0	0	1	0	0	2	0	0	0	0	2	2,5	2,5	25	15	0	110000	1	40	40	40	40	42	42	43	42	0	1	0
+inbbb04	Скиталец	730703	4	11000	19	0	0	1000000	0	0	0	0	0	0	1	0	0	3	0	0	0	0	3	2,5	2,5	25	15	0	110000	1	60	60	60	60	63	63	64	63	0	1	0
