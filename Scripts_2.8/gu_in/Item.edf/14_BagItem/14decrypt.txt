@@ -1,0 +1,8 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	hz	
+iebbs00	Вещмешок Новичка(Bellato)	730500	1	11000	14	0	0	20	0	0	0	0	1	0	1	0	0	0	1	0	0	0	0	
+ieccs00	Торба Новичка(Cora)	830501	2	00110	14	0	0	20	0	0	0	0	1	0	1	0	0	1	1	0	0	0	0	
+ieaas00	Модуль Хранения Новичка(Accretia)	430502	3	00001	14	0	0	20	0	0	0	0	1	0	1	0	0	2	1	0	0	0	0	
+iebbb00	Вещмешок	730500	1	11000	14	0	0	20000	0	0	0	0	1	1	1	1	0	3	1	0	0	0	0	
+ieccc00	Торба(Cora)	830501	2	00110	14	0	0	20000	0	0	0	0	1	1	1	1	0	4	1	0	0	0	0	
+ieaaa00	Модуль Хранения	430502	3	00001	14	0	0	20000	0	0	0	0	1	1	1	1	0	5	1	0	0	0	0	

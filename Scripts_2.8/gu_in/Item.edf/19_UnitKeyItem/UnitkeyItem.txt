@@ -1,0 +1,6 @@
+string[64]	dword	string[64]	dword	string[64]	string[64]	dword	dword	dword	dword	dword	dword	string[64]	END
+Code	IsExist	Model	Icon	Name	Civil	FRAType	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	
+inbbb01	1	730700	1	Голиаф	11000	0	1	0	0	0	1	tinbbb01	
+inbbb02	1	730701	2	Баллиста	11000	1	1	0	0	0	1	tinbbb02	
+inbbb03	1	730702	3	Зодчий	11000	2	1	0	0	0	1	tinbbb03	
+inbbb04	1	730703	4	Скиталец	11000	3	1	0	0	0	1	tinbbb04	

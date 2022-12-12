@@ -1,0 +1,12 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	dword	END
+Code	IsExist	Model	Icon	Name	KindKlt	FixPart	Civil	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	DurUnit	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	IsCash	IsTime	
+itttt00	1	A30600	1	Малая Тренировочная Батарея	306	300	11111	0	10	0	0	0	0	1	1800	1	0	0	0	1	titttt00	0	0	
+itttt01	1	A30600	1	Малая Батарея	306	300	11111	0	30	0	0	0	0	150	1800	1	1	1	1	1	titttt01	0	0	
+itttt02	1	A30601	2	Стандартная Батарея	306	300	11111	0	60	0	0	0	0	300	3600	1	1	1	1	1	titttt02	0	0	
+itttt03	1	A30602	3	Увеличенная Батарея	306	300	11111	0	120	0	0	0	0	600	7200	1	1	1	1	1	titttt03	0	0	
+ittwe01	1	A30603	4	Батарея Героя	306	300	11111	0	24	0	0	0	0	600	10800	1	1	1	1	1	tittwe01	0	0	
+itdbr01	1	A30604	4	Батарея Полнолуния	306	300	11111	0	24	0	0	0	0	600	30000	1	1	1	1	1	titdbr01	0	0	
+itttt04	1	A30603	5	Автоматическая Малая Батарея	306	300	11111	0	30	0	0	0	0	1500	5400	1	1	1	1	1	titttt04	0	0	
+itttt05	1	A30604	6	Автоматическая Стандартная Батарея	306	300	11111	0	60	0	0	0	0	3000	10800	1	1	1	1	1	titttt05	0	0	
+itcsa01	1	A30605	7	Автоматическая Увеличенная Батарея	306	300	11111	0	1	0	0	0	0	5000	14400	1	0	0	1	1	titcsa01	1	0	
+itcsa02	1	A30605	8	Автоматическая Экстраувеличенная Батарея	306	300	11111	0	1	0	0	0	0	600	21600	1	0	0	1	1	titcsa02	1	0	

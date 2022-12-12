@@ -1,0 +1,10 @@
+string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	string[64]	string[64]	string[64]	string[64]	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	string[64]	string[64]	string[64]	string[64]	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	string[64]	string[64]	string[64]	string[64]	string[64]	END
+
+0	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	Q072000	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	-1	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+2	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	-1	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	-1	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	Q090001	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	Q090002	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	Q090003	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+7	-1	0	0	0	0	100	100	10	15	0	0	0	-1	0	0	0	0	0	0	0	0	0	Q090004	-1	-1	-1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0

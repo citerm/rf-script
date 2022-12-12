@@ -1,0 +1,20 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	MapCode	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	IsTime	
+izbbb00	1	A30B00	1	База Подготовки Федерации(Map)	779	300	11111	NeutralB	0	10	0	0	0	0	1	1	0	0	0	1	tizbbb00	0	
+izccc00	1	A30B01	1	База Подготовки Священного Альянса(Map)	779	300	11111	NeutralC	0	10	0	0	0	0	1	1	0	0	0	1	tizccc00	0	
+izaaa00	1	A30B02	1	База Подготовки Империи(Map)	779	300	11111	NeutralA	0	10	0	0	0	0	1	1	0	0	0	1	tizaaa00	0	
+izbbb01	1	A30B00	1	Генштаб Федерации(Map)	779	300	11111	NeutralB	0	1000	0	0	0	0	50	1	1	1	1	1	tizbbb01	0	
+izccc01	1	A30B01	1	Генштаб Священного Альянса(Map)	779	300	11111	NeutralC	0	1000	0	0	0	0	50	1	1	1	1	1	tizccc01	0	
+izaaa01	1	A30B02	1	Генштаб Империи(Map)	779	300	11111	NeutralA	0	1000	0	0	0	0	50	1	1	1	1	1	tizaaa01	0	
+izbnn01	1	A30B03	1	Укрепление Солус(Map)	779	300	11111	NeutralBS1	0	10000	0	0	0	0	500	1	1	1	1	1	tizbnn01	0	
+izbnn02	1	A30B04	1	Укрепления Анакаде(Map)	779	300	11111	NeutralBS2	0	10000	0	0	0	0	500	1	1	1	1	1	tizbnn02	0	
+izcnn01	1	A30B05	1	Колония Харам(Map)	779	300	11111	NeutralCS1	0	10000	0	0	0	0	500	1	1	1	1	1	tizcnn01	0	
+izcnn02	1	A30B07	1	Колония Нумерус(Map)	779	300	11111	NeutralCS2	0	10000	0	0	0	0	500	1	1	1	1	1	tizcnn02	0	
+izann01	1	A30B08	1	Застава-213	779	300	11111	NeutralAS1	0	10000	0	0	0	0	500	1	1	1	1	1	tizann01	0	
+izann02	1	A30B09	1	Застава-117	779	300	11111	NeutralAS2	0	10000	0	0	0	0	500	1	1	1	1	1	tizann02	0	
+izree01	1	A30B0A	1	Краговы Шахты(Map)	779	300	11111	resources	0	1000	0	0	0	0	50	1	1	1	1	1	tizree01	0	
+izpll01	1	A30B0B	1	Космопорт(Map)	779	300	11111	Platform01	0	100000	0	0	0	0	5000	1	1	1	1	1	tizpll01	0	
+izset01	1	A30B0B	1	Сеттова Пустыня	779	300	11111	Sette	0	100000	0	0	0	0	5000	1	1	1	1	1	tizset01	0	
+izcol01	1	A30B0B	1	Отроги Вулкана Котел(Map)	779	300	11111	Cauldron01	0	100000	0	0	0	0	5000	1	1	1	1	1	tizcol01	0	
+izelf00	1	A30B0B	1	Карта Древнего Королевства Идисиль(Map)	779	300	11111	Cauldron01	0	0	0	0	0	0	0	1	1	1	1	1	tizelf00	0	
+izelf01	1	A30B0B	1	Эльфийская земля	779	300	11111	Cauldron01	0	0	0	0	0	0	0	1	1	1	1	1	tizelf01	0	

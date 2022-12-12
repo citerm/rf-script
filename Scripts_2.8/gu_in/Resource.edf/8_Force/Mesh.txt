@@ -1,0 +1,2 @@
+xeh	xeh	string[128]	string[64]	string[128]	END
+ID	BoneID	PathName	FileName	TexutrePath	

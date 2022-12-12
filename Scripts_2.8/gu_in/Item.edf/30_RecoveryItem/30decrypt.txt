@@ -1,0 +1,14 @@
+clcode	string[64]	xeh	dword	stb	byte	byte	word	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	END
+Code	Name	Model	Icon	Civil	ListID	Money	none	StdPrice	StdPoint	GoldPoint	ProcPoint	KillPoint	StorePrice	IsExchange	IsSell	IsGround	IsStore	Descript	IsExist	IsCash	IsTime	UpLvLim	MinRec	MaxRec	LvLim	hz	
+rebbb01	Восстанавливающая Капсула А(1)	A20701	83	11111	30	1	0	500	0	0	0	0	50	1	1	1	1	0	1	0	0	-1	10	90	1	0	
+rebbb02	Восстанавливающая Капсула B	A20702	84	11111	30	1	0	10	0	0	0	0	50	1	1	1	1	1	1	0	0	-1	30	70	1	0	
+rebbb03	Восстанавливающая Капсула C	A20703	85	11111	30	1	0	10	0	0	0	0	50	1	1	1	1	2	1	0	0	-1	50	70	1	0	
+rebbb04	Восстанавливающая Капсула D	A20704	86	11111	30	1	0	10	0	0	0	0	50	1	1	1	1	3	1	0	0	-1	50	100	1	0	
+rebbb05	Восстанавливающая Капсула E	A20705	87	11111	30	1	0	10	0	0	0	0	50	1	1	1	1	4	1	0	0	-1	70	100	1	0	
+rebbb06	Восстанавливающая Капсула F	A20706	83	11111	30	1	0	10	0	0	0	0	50	1	1	1	1	5	1	0	0	-1	90	95	1	0	
+rebbb07	Восстанавливающая Капсула G	A20707	84	11111	30	1	0	10	0	0	0	0	50	1	1	1	1	6	1	0	0	-1	100	100	1	0	
+rebbb08	Восстанавливающая Капсула H	A20708	85	11111	30	1	0	0	0	0	0	0	1	1	1	1	1	7	1	0	0	-1	10	50	1	0	
+rebbb09	Восстанавливающая Капсула I	A20709	86	11111	30	1	0	0	0	0	0	0	1	1	1	1	1	8	1	0	0	-1	10	50	1	0	
+rebbb10	Восстанавливающая Капсула J	A2070A	87	11111	30	1	0	0	0	0	0	0	2333	1	1	1	1	9	1	0	0	-1	10	50	1	0	
+rebbb11	Lucky accessory	A2070B	108	11111	30	1	0	1	0	0	0	0	2333	1	1	1	1	10	1	0	0	-1	90	100	1	0	
+recsa01	Капсула Восстановления Опыта [100%	A2070B	155	11111	30	0	0	1	0	0	0	0	2333	1	1	1	1	11	1	1	0	-1	100	100	1	0	

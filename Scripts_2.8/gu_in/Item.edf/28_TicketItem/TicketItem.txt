@@ -1,0 +1,14 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	dword	dword	string[64]	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	LvLim	UpLvLim	MapCode	DummyName	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	IsTime	
+tibp000	1	731000	1	Стандартный Билет На Челнок	780	300	0	35	-1	Platform01	dpfrom_neutralb	0	10000	0	0	0	0	0	1	1	0	0	1	ttibp000	0	
+ticp000	1	831001	1	Стандартный Билет На Челнок	780	300	0	35	-1	Platform01	dpfrom_neutralc	0	10000	0	0	0	0	0	1	1	0	0	1	tticp000	0	
+tiap000	1	431002	1	Стандартный Билет На Челнок	780	300	0	35	-1	Platform01	dpfrom_neutrala	0	10000	0	0	0	0	0	1	1	0	0	1	ttiap000	0	
+tipb000	1	731003	1	Стандартный Билет На Челнок	780	300	0	35	-1	NeutralB	dpfrom_platformb	0	10000	0	0	0	0	0	1	1	0	0	1	ttipb000	0	
+tipc000	1	831004	1	Стандартный Билет На Челнок	780	300	0	35	-1	NeutralC	dpfrom_platformc	0	10000	0	0	0	0	0	1	1	0	0	1	ttipc000	0	
+tipa000	1	431005	1	Стандартный Билет На Челнок	780	300	0	35	-1	NeutralA	dpfrom_platforma	0	10000	0	0	0	0	0	1	1	0	0	1	ttipa000	0	
+tibp001	1	731000	1	Билет На Челнок	780	300	11000	35	-1	Platform01	dpfrom_neutralb	0	200000	0	0	0	0	0	1	1	0	0	1	ttibp001	0	
+ticp001	1	831001	1	Билет На Челнок	780	300	00110	35	-1	Platform01	dpfrom_neutralc	0	200000	0	0	0	0	0	1	1	0	0	1	tticp001	0	
+tiap001	1	431002	1	Билет На Челнок	780	300	00001	35	-1	Platform01	dpfrom_neutrala	0	200000	0	0	0	0	0	1	1	0	0	1	ttiap001	0	
+tipb001	1	731003	1	Билет На Челнок	780	300	11000	35	-1	NeutralB	dpfrom_platformb	0	200000	0	0	0	0	0	1	1	0	0	1	ttipb001	0	
+tipc001	1	831004	1	Билет На Челнок	780	300	00110	35	-1	NeutralC	dpfrom_platformc	0	200000	0	0	0	0	0	1	1	0	0	1	ttipc001	0	
+tipa001	1	431005	1	Билет На Челнок	780	300	00001	35	-1	NeutralA	dpfrom_platforma	0	200000	0	0	0	0	0	1	1	0	0	1	ttipa001	0	

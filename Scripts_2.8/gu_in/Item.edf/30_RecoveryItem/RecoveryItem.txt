@@ -1,0 +1,14 @@
+string[64]	dword	string[64]	dword	string[64]	dword	dword	string[64]	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	dword	string[64]	dword	dword	END
+Code	IsExist	Model	Icon	Name	KindClt	FixPart	Civil	LvLim	UpLvLim	Money	StdPrice	StdPoint	GoldPoint	KillPoint	ProcPoint	StorePrice	MinRec	MaxRec	IsSell	IsExchange	IsGround	IsStore	IsNormAcc	ToolTip	IsCash	IsTime	
+rebbb01	1	A20701	83	Восстанавливающая Капсула А(1)	207	200	11111	1	-1	1	500	0	0	0	0	50	10	90	1	1	1	1	1	trebbb01	0	0	
+rebbb02	1	A20702	84	Восстанавливающая Капсула B	207	200	11111	1	-1	1	10	0	0	0	0	50	30	70	1	1	1	1	1	trebbb02	0	0	
+rebbb03	1	A20703	85	Восстанавливающая Капсула C	207	200	11111	1	-1	1	10	0	0	0	0	50	50	70	1	1	1	1	1	trebbb03	0	0	
+rebbb04	1	A20704	86	Восстанавливающая Капсула D	207	200	11111	1	-1	1	10	0	0	0	0	50	50	100	1	1	1	1	1	trebbb04	0	0	
+rebbb05	1	A20705	87	Восстанавливающая Капсула E	207	200	11111	1	-1	1	10	0	0	0	0	50	70	100	1	1	1	1	1	trebbb05	0	0	
+rebbb06	1	A20706	83	Восстанавливающая Капсула F	207	200	11111	1	-1	1	10	0	0	0	0	50	90	95	1	1	1	1	1	trebbb06	0	0	
+rebbb07	1	A20707	84	Восстанавливающая Капсула G	207	200	11111	1	-1	1	10	0	0	0	0	50	100	100	1	1	1	1	1	trebbb07	0	0	
+rebbb08	1	A20708	85	Восстанавливающая Капсула H	207	200	11111	1	-1	1	0	0	0	0	0	1	10	50	1	1	1	1	1	trebbb08	0	0	
+rebbb09	1	A20709	86	Восстанавливающая Капсула I	207	200	11111	1	-1	1	0	0	0	0	0	1	10	50	1	1	1	1	1	trebbb09	0	0	
+rebbb10	1	A2070A	87	Восстанавливающая Капсула J	207	200	11111	1	-1	1	0	0	0	0	0	2333	10	50	1	1	1	1	1	trebbb10	0	0	
+rebbb11	1	A2070B	108	Lucky accessory	207	200	11111	1	-1	1	1	0	0	0	0	2333	90	100	1	1	1	1	1	trebbb11	0	0	
+recsa01	1	A2070B	155	Капсула Восстановления Опыта [100%	207	200	11111	1	-1	0	1	0	0	0	0	2333	100	100	1	1	1	1	1	trecsa01	1	0	
